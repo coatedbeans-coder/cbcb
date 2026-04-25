@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "a3d6dcbc8e92b265",
+    "id": "d7cb2892a55689db",
     "type": "split",
     "children": [
       {
-        "id": "73ff2cef25160a5c",
+        "id": "23701c5e50ffc3e4",
         "type": "tabs",
         "children": [
           {
-            "id": "a4c0a4c21c16593a",
+            "id": "acbc31321ce47027",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,24 +23,24 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1661a5aeb18c5327",
+    "id": "1c7eb9779a299754",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "0642929beef11379",
+        "id": "793e91d827f994c0",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "파일 탐색기"
         }
       },
       {
-        "id": "1f22984806a675e6",
+        "id": "dfb44ce10cadb877",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -57,7 +57,7 @@
         }
       },
       {
-        "id": "e9ea03fb97cc9da8",
+        "id": "612f2e6b187359ab",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +72,7 @@
         }
       },
       {
-        "id": "6dcd7d9813e4acb6",
+        "id": "968690d0a8e9d7d3",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -86,7 +86,7 @@
         }
       },
       {
-        "id": "dc9f28e579093904",
+        "id": "a190c51e0ef8bc98",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,16 +99,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "6df27cf907324b75",
+    "id": "2ee2bfdfe9317f8a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "15f433e49ffc5197",
+        "id": "6edcf178cd15ee4d",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "학습 대시보드.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,12 +121,11 @@
         }
       },
       {
-        "id": "610854191e6d3d63",
+        "id": "8639ef05050240d7",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "학습 대시보드.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -136,12 +134,11 @@
         }
       },
       {
-        "id": "d408d583dd9bfc5b",
+        "id": "302c803b7ff98583",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "테스트.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -151,7 +148,7 @@
         }
       },
       {
-        "id": "9589ba6a90ac104a",
+        "id": "189a4ef626eb1f94",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -175,12 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4c0a4c21c16593a",
+  "active": "acbc31321ce47027",
   "lastOpenFiles": [
+    "무제.base",
     "테스트.md",
-    "/테스트.md",
-    "StudyVault/00-Dashboard/빠른 참조.md",
-    "StudyVault/04-액추에이터-모터/14.DC 모터.md",
+    "test.html",
+    "/test.html",
     "StudyVault/학습 대시보드.md",
     "StudyVault/concepts/7.전원·전자회로.md",
     "StudyVault/concepts/6.센서·신호처리.md",
@@ -203,15 +200,14 @@
     "StudyVault/05-Arduino-제어/Arduino 문제풀이.md",
     "StudyVault/05-Arduino-제어/22.I2C와 SPI 통신.md",
     "StudyVault/05-Arduino-제어/21.타이머와 인터럽트.md",
+    "StudyVault/05-Arduino-제어/20.PWM과 DC 모터 제어.md",
+    "StudyVault/05-Arduino-제어/19.서보 제어 프로그래밍.md",
     "StudyVault/concepts",
     "StudyVault/08-프로젝트-설계",
     "StudyVault/07-전원-전자회로",
     "StudyVault/06-센서-신호처리",
     "StudyVault/05-Arduino-제어",
     "StudyVault/04-액추에이터-모터",
-    "StudyVault/03-구조-재료",
-    "StudyVault/02-운동역학",
-    "StudyVault/01-기구학-메커니즘",
-    "StudyVault/00-Dashboard"
+    "StudyVault/03-구조-재료"
   ]
 }
