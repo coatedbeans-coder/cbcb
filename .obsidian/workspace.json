@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "11.재료 선택과 특성"
             }
+          },
+          {
+            "id": "17a7d96dea6c1708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "테스트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "테스트"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +210,10 @@
       "print:Print note": false
     }
   },
-  "active": "374718e900ba2b21",
+  "active": "17a7d96dea6c1708",
   "lastOpenFiles": [
+    "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
+    "테스트.md",
     "StudyVault/무제 폴더",
     "StudyVault/concepts/1.기구학.md",
     "StudyVault/concepts/2.운동역학.md",
@@ -222,7 +239,6 @@
     "00-Dashboard/설계 함정.md",
     "01-기구학-메커니즘/기구학 문제풀이.md",
     "04-액추에이터-모터/15.서보 모터.md",
-    "08-프로젝트-설계/말 갤럽 메커니즘 설계.md",
     "05-Arduino-제어",
     "00-Dashboard",
     "04-액추에이터-모터",
@@ -231,7 +247,6 @@
     "07-전원-전자회로",
     "06-센서-신호처리",
     "concepts",
-    "03-구조-재료",
-    "02-운동역학"
+    "03-구조-재료"
   ]
 }
