@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "4fc5f8a660e86011",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb40599ee8d2a63d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dc2b75e7e13e229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.재료 선택과 특성"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74d67d7a1bb986dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "802b041548c359dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "374718e900ba2b21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "7af128c8e65ea9c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "7b143ba659bb7e50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "75e8351d42a29793",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0535161de9702de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb385996e8447ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-Dashboard/빠른 참조.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "빠른 참조 의 백링크"
+            }
+          },
+          {
+            "id": "b7e177710f9955f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-Dashboard/빠른 참조.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "빠른 참조 의 나가는 링크"
+            }
+          },
+          {
+            "id": "f685c1f61a2824c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "f8b22a8500663ce7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "c5253dc49c12a6d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Dashboard/빠른 참조.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "빠른 참조 의 개요"
+            }
+          },
+          {
+            "id": "76f44945b0ab7079",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false,
+      "print:Print note": false
+    }
+  },
+  "active": "374718e900ba2b21",
+  "lastOpenFiles": [
+    "StudyVault/무제 폴더",
+    "StudyVault/concepts/1.기구학.md",
+    "StudyVault/concepts/2.운동역학.md",
+    "StudyVault/concepts/3.구조·재료.md",
+    "StudyVault/학습 대시보드.md",
+    "StudyVault/concepts/운동역학.md",
+    "StudyVault/concepts/기구학.md",
+    "StudyVault/concepts/7.전원·전자회로.md",
+    "StudyVault/concepts/5.Arduino 제어.md",
+    "StudyVault/concepts/4.액추에이터·모터.md",
+    "StudyVault/concepts/6.센서·신호처리.md",
+    "00-Dashboard/일정.md",
+    "08-프로젝트-설계/말을탄여인 프로젝트 개요.md",
+    "00-Dashboard/빠른 참조.md",
+    "00-Dashboard/MOC - 말을 탄 여인.md",
+    "05-Arduino-제어/Arduino 문제풀이.md",
+    "08-프로젝트-설계/제어 시퀀스 설계.md",
+    "07-전원-전자회로/전원-전자 문제풀이.md",
+    "06-센서-신호처리/센서 문제풀이.md",
+    "05-Arduino-제어/19.서보 제어 프로그래밍.md",
+    "03-구조-재료/구조-재료 문제풀이.md",
+    "08-프로젝트-설계/부품 목록 BOM.md",
+    "00-Dashboard/설계 함정.md",
+    "01-기구학-메커니즘/기구학 문제풀이.md",
+    "04-액추에이터-모터/15.서보 모터.md",
+    "08-프로젝트-설계/말 갤럽 메커니즘 설계.md",
+    "05-Arduino-제어",
+    "00-Dashboard",
+    "04-액추에이터-모터",
+    "01-기구학-메커니즘",
+    "08-프로젝트-설계",
+    "07-전원-전자회로",
+    "06-센서-신호처리",
+    "concepts",
+    "03-구조-재료",
+    "02-운동역학"
+  ]
+}
