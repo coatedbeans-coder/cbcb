@@ -11,14 +11,10 @@
             "id": "a4c0a4c21c16593a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "테스트.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "테스트"
+              "title": "새 탭"
             }
           }
         ]
@@ -181,8 +177,8 @@
   },
   "active": "a4c0a4c21c16593a",
   "lastOpenFiles": [
-    "/테스트.md",
     "테스트.md",
+    "/테스트.md",
     "StudyVault/00-Dashboard/빠른 참조.md",
     "StudyVault/04-액추에이터-모터/14.DC 모터.md",
     "StudyVault/학습 대시보드.md",
