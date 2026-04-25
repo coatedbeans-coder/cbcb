@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb40599ee8d2a63d",
+        "id": "8ebbc42e2f187ee5",
         "type": "tabs",
         "children": [
           {
-            "id": "0dc2b75e7e13e229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.재료 선택과 특성"
-            }
-          },
-          {
-            "id": "17a7d96dea6c1708",
+            "id": "6a60ead54cbef809",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "테스트"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,15 +195,15 @@
       "print:Print note": false
     }
   },
-  "active": "17a7d96dea6c1708",
+  "active": "6a60ead54cbef809",
   "lastOpenFiles": [
-    "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
+    "StudyVault/학습 대시보드.md",
     "테스트.md",
+    "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
     "StudyVault/무제 폴더",
     "StudyVault/concepts/1.기구학.md",
     "StudyVault/concepts/2.운동역학.md",
     "StudyVault/concepts/3.구조·재료.md",
-    "StudyVault/학습 대시보드.md",
     "StudyVault/concepts/운동역학.md",
     "StudyVault/concepts/기구학.md",
     "StudyVault/concepts/7.전원·전자회로.md",
