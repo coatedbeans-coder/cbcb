@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "학습 대시보드.md",
+            "file": "테스트.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -181,8 +181,9 @@
   },
   "active": "a4c0a4c21c16593a",
   "lastOpenFiles": [
-    "StudyVault/04-액추에이터-모터/14.DC 모터.md",
+    "StudyVault/00-Dashboard/빠른 참조.md",
     "테스트.md",
+    "StudyVault/04-액추에이터-모터/14.DC 모터.md",
     "StudyVault/학습 대시보드.md",
     "StudyVault/concepts/7.전원·전자회로.md",
     "StudyVault/concepts/6.센서·신호처리.md",
@@ -206,7 +207,6 @@
     "StudyVault/05-Arduino-제어/22.I2C와 SPI 통신.md",
     "StudyVault/05-Arduino-제어/21.타이머와 인터럽트.md",
     "StudyVault/05-Arduino-제어/20.PWM과 DC 모터 제어.md",
-    "StudyVault/05-Arduino-제어/19.서보 제어 프로그래밍.md",
     "StudyVault/concepts",
     "StudyVault/08-프로젝트-설계",
     "StudyVault/07-전원-전자회로",
