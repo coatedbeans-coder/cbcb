@@ -155,7 +155,7 @@
         }
       },
       {
-        "id": "36d917662e1d1e89",
+        "id": "9589ba6a90ac104a",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -169,20 +169,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a4c0a4c21c16593a",
   "lastOpenFiles": [
-    "StudyVault/00-Dashboard/빠른 참조.md",
+    "/테스트.md",
     "테스트.md",
+    "StudyVault/00-Dashboard/빠른 참조.md",
     "StudyVault/04-액추에이터-모터/14.DC 모터.md",
     "StudyVault/학습 대시보드.md",
     "StudyVault/concepts/7.전원·전자회로.md",
@@ -206,7 +207,6 @@
     "StudyVault/05-Arduino-제어/Arduino 문제풀이.md",
     "StudyVault/05-Arduino-제어/22.I2C와 SPI 통신.md",
     "StudyVault/05-Arduino-제어/21.타이머와 인터럽트.md",
-    "StudyVault/05-Arduino-제어/20.PWM과 DC 모터 제어.md",
     "StudyVault/concepts",
     "StudyVault/08-프로젝트-설계",
     "StudyVault/07-전원-전자회로",
