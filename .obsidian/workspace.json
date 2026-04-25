@@ -195,12 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a60ead54cbef809",
+  "active": "490e6c09d1b355ad",
   "lastOpenFiles": [
+    "StudyVault/학습 대시보드.md",
     "test.html",
     "StudyVault/00-Dashboard/빠른 참조.md",
     "테스트.md",
-    "StudyVault/학습 대시보드.md",
     "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
     "StudyVault/무제 폴더",
     "StudyVault/concepts/1.기구학.md",
@@ -231,7 +231,6 @@
     "08-프로젝트-설계",
     "07-전원-전자회로",
     "06-센서-신호처리",
-    "concepts",
-    "03-구조-재료"
+    "concepts"
   ]
 }
