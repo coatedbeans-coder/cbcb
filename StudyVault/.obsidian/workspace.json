@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "4fc5f8a660e86011",
+    "id": "61d017db7f6fb965",
     "type": "split",
     "children": [
       {
-        "id": "8ebbc42e2f187ee5",
+        "id": "9337b3dcc43d7a64",
         "type": "tabs",
         "children": [
           {
-            "id": "6a60ead54cbef809",
+            "id": "8ae6525d904db785",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "테스트.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "테스트"
+              "title": "새 탭"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "74d67d7a1bb986dc",
+    "id": "d28b158cdb757dc0",
     "type": "split",
     "children": [
       {
-        "id": "802b041548c359dd",
+        "id": "73993f1600b2dea3",
         "type": "tabs",
         "children": [
           {
-            "id": "374718e900ba2b21",
+            "id": "dbf6c3d9281db54c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "7af128c8e65ea9c2",
+            "id": "ac094028cc045814",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "7b143ba659bb7e50",
+            "id": "34073fbf4e236631",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "75e8351d42a29793",
+    "id": "5b0e7218334f165c",
     "type": "split",
     "children": [
       {
-        "id": "f0535161de9702de",
+        "id": "1b1e91fa1c8a5f41",
         "type": "tabs",
         "children": [
           {
-            "id": "ceb385996e8447ab",
+            "id": "6d828b70230edc69",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Dashboard/빠른 참조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "빠른 참조 의 백링크"
+              "title": "백링크"
             }
           },
           {
-            "id": "b7e177710f9955f8",
+            "id": "5278c0ce5d47e50d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Dashboard/빠른 참조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "빠른 참조 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
-            "id": "f685c1f61a2824c5",
+            "id": "e1da8806927f72e4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "f8b22a8500663ce7",
+            "id": "6bde10cbcf513d40",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,36 +145,25 @@
             }
           },
           {
-            "id": "c5253dc49c12a6d6",
+            "id": "9be1a674154e4d80",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "테스트.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "테스트 의 개요"
-            }
-          },
-          {
-            "id": "490e6c09d1b355ad",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "개요"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,48 +173,9 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false,
-      "print:Print note": false,
-      "obsidian-git:Open Git source control": false
+      "bases:새 베이스 생성하기": false
     }
   },
-  "active": "6a60ead54cbef809",
-  "lastOpenFiles": [
-    "테스트.md",
-    "StudyVault/학습 대시보드.md",
-    "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
-    "StudyVault/무제 폴더",
-    "StudyVault/concepts/1.기구학.md",
-    "StudyVault/concepts/2.운동역학.md",
-    "StudyVault/concepts/3.구조·재료.md",
-    "StudyVault/concepts/운동역학.md",
-    "StudyVault/concepts/기구학.md",
-    "StudyVault/concepts/7.전원·전자회로.md",
-    "StudyVault/concepts/5.Arduino 제어.md",
-    "StudyVault/concepts/4.액추에이터·모터.md",
-    "StudyVault/concepts/6.센서·신호처리.md",
-    "00-Dashboard/일정.md",
-    "08-프로젝트-설계/말을탄여인 프로젝트 개요.md",
-    "00-Dashboard/빠른 참조.md",
-    "00-Dashboard/MOC - 말을 탄 여인.md",
-    "05-Arduino-제어/Arduino 문제풀이.md",
-    "08-프로젝트-설계/제어 시퀀스 설계.md",
-    "07-전원-전자회로/전원-전자 문제풀이.md",
-    "06-센서-신호처리/센서 문제풀이.md",
-    "05-Arduino-제어/19.서보 제어 프로그래밍.md",
-    "03-구조-재료/구조-재료 문제풀이.md",
-    "08-프로젝트-설계/부품 목록 BOM.md",
-    "00-Dashboard/설계 함정.md",
-    "01-기구학-메커니즘/기구학 문제풀이.md",
-    "04-액추에이터-모터/15.서보 모터.md",
-    "05-Arduino-제어",
-    "00-Dashboard",
-    "04-액추에이터-모터",
-    "01-기구학-메커니즘",
-    "08-프로젝트-설계",
-    "07-전원-전자회로",
-    "06-센서-신호처리",
-    "concepts",
-    "03-구조-재료"
-  ]
+  "active": "8ae6525d904db785",
+  "lastOpenFiles": []
 }
