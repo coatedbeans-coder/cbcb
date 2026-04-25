@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyVault/00-Dashboard/빠른 참조.md",
+                "file": "StudyVault/학습 대시보드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "빠른 참조"
+              "title": "학습 대시보드"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyVault/00-Dashboard/빠른 참조.md",
+                "file": "StudyVault/학습 대시보드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "빠른 참조 의 개요"
+              "title": "학습 대시보드 의 개요"
             }
           },
           {
@@ -195,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "490e6c09d1b355ad",
+  "active": "6a60ead54cbef809",
   "lastOpenFiles": [
+    "test.html",
     "StudyVault/00-Dashboard/빠른 참조.md",
     "테스트.md",
     "StudyVault/학습 대시보드.md",
@@ -223,7 +224,6 @@
     "03-구조-재료/구조-재료 문제풀이.md",
     "08-프로젝트-설계/부품 목록 BOM.md",
     "00-Dashboard/설계 함정.md",
-    "01-기구학-메커니즘/기구학 문제풀이.md",
     "05-Arduino-제어",
     "00-Dashboard",
     "04-액추에이터-모터",
