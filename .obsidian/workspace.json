@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyVault/01-기구학-메커니즘/3.캠과 팔로워.md",
+                "file": "StudyVault/01-기구학-메커니즘/6.507 운동 레퍼런스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.캠과 팔로워"
+              "title": "6.507 운동 레퍼런스"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "캠샤프트",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,35 +195,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "374718e900ba2b21",
+  "active": "6a60ead54cbef809",
   "lastOpenFiles": [
-    "StudyVault/04-액추에이터-모터/14.DC 모터.md",
-    "StudyVault/02-운동역학/9.마찰과 베어링.md",
+    "StudyVault/01-기구학-메커니즘/5.기어와 동력전달.md",
+    "StudyVault/01-기구학-메커니즘/3.캠과 팔로워.md",
+    "StudyVault/01-기구학-메커니즘/4.4절 링크장치.md",
     "StudyVault/01-기구학-메커니즘/2.크랭크와 왕복운동.md",
-    "StudyVault/03-구조-재료/13.프레임 설계.md",
-    "StudyVault/03-구조-재료/12.체결과 접합.md",
-    "StudyVault/03-구조-재료/구조-재료 문제풀이.md",
-    "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
-    "StudyVault/04-액추에이터-모터/15.서보 모터.md",
-    "StudyVault/04-액추에이터-모터/16.스테퍼 모터.md",
-    "StudyVault/04-액추에이터-모터/17.모터 선택 가이드.md",
-    "StudyVault/05-Arduino-제어/18.Arduino 기초와 구조.md",
-    "StudyVault/05-Arduino-제어/19.서보 제어 프로그래밍.md",
-    "StudyVault/05-Arduino-제어/21.타이머와 인터럽트.md",
-    "StudyVault/05-Arduino-제어/20.PWM과 DC 모터 제어.md",
+    "StudyVault/01-기구학-메커니즘/1.기본 기계요소 6가지.md",
     "StudyVault/05-Arduino-제어/22.I2C와 SPI 통신.md",
-    "StudyVault/06-센서-신호처리/23.센서 종류와 선택.md",
-    "StudyVault/06-센서-신호처리/24.신호 조정.md",
-    "StudyVault/07-전원-전자회로/25.전원 시스템과 배터리.md",
-    "StudyVault/07-전원-전자회로/26.모터 드라이버와 H-Bridge.md",
+    "conflict-files-obsidian-git.md",
+    "test.html",
+    "StudyVault/03-구조-재료/12.체결과 접합.md",
+    "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
+    "StudyVault/concepts/1.기구학.md",
+    "StudyVault/08-프로젝트-설계/제어 시퀀스 설계.md",
+    "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
     "StudyVault/08-프로젝트-설계/말을탄여인 프로젝트 개요.md",
     "StudyVault/08-프로젝트-설계/말 갤럽 메커니즘 설계.md",
-    "StudyVault/08-프로젝트-설계/제어 시퀀스 설계.md",
     "StudyVault/08-프로젝트-설계/라이더 동작 설계.md",
-    "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
-    "StudyVault/학습 대시보드.md",
-    "test.html",
-    "StudyVault/00-Dashboard/빠른 참조.md",
+    "StudyVault/07-전원-전자회로/전원-전자 문제풀이.md",
+    "StudyVault/07-전원-전자회로/26.모터 드라이버와 H-Bridge.md",
+    "StudyVault/07-전원-전자회로/25.전원 시스템과 배터리.md",
+    "StudyVault/06-센서-신호처리/24.신호 조정.md",
+    "StudyVault/06-센서-신호처리/23.센서 종류와 선택.md",
+    "StudyVault/05-Arduino-제어/21.타이머와 인터럽트.md",
+    "StudyVault/05-Arduino-제어/20.PWM과 DC 모터 제어.md",
+    "StudyVault/05-Arduino-제어/19.서보 제어 프로그래밍.md",
+    "StudyVault/05-Arduino-제어/18.Arduino 기초와 구조.md",
+    "StudyVault/04-액추에이터-모터/17.모터 선택 가이드.md",
+    "StudyVault/04-액추에이터-모터/16.스테퍼 모터.md",
     "StudyVault/무제 폴더",
     "05-Arduino-제어",
     "00-Dashboard",
