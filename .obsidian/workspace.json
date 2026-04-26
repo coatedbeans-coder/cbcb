@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyVault/00-Dashboard/MOC - 말을 탄 여인.md",
+                "file": "StudyVault/00-Dashboard/빠른 참조.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC - 말을 탄 여인"
+              "title": "빠른 참조"
             }
           }
         ]
@@ -174,6 +174,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "40c593bca2e7d381",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
@@ -184,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -191,12 +202,14 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "print:Print note": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "6a60ead54cbef809",
   "lastOpenFiles": [
+    "StudyVault/08-프로젝트-설계/라이더 동작 설계.md",
+    "StudyVault/00-Dashboard/MOC - 말을 탄 여인.md",
     "StudyVault/00-Dashboard/일정.md",
     "StudyVault/00-Dashboard/설계 함정.md",
     "StudyVault/00-Dashboard/빠른 참조.md",
@@ -204,7 +217,6 @@
     "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
     "StudyVault/08-프로젝트-설계/말을탄여인 프로젝트 개요.md",
     "StudyVault/08-프로젝트-설계/말 갤럽 메커니즘 설계.md",
-    "StudyVault/08-프로젝트-설계/라이더 동작 설계.md",
     "StudyVault/07-전원-전자회로/전원-전자 문제풀이.md",
     "StudyVault/07-전원-전자회로/26.모터 드라이버와 H-Bridge.md",
     "StudyVault/07-전원-전자회로/25.전원 시스템과 배터리.md",
@@ -222,7 +234,6 @@
     "StudyVault/04-액추에이터-모터/15.서보 모터.md",
     "StudyVault/04-액추에이터-모터/14.DC 모터.md",
     "StudyVault/03-구조-재료/구조-재료 문제풀이.md",
-    "StudyVault/03-구조-재료/13.프레임 설계.md",
     "test.html",
     "StudyVault/무제 폴더",
     "05-Arduino-제어",
