@@ -28,9 +28,9 @@ keywords: MOC, study map, mechatronics art, horse rider, woman riding horse
               ↓
       ┌───────┼───────┐
    [모터A]  [모터B]  [모터C]
-      ↓        ↓        ↓
-  [앞다리  [뒷다리  [라이더
-   크랭크]  캠]     서보]
+      ↓      ↓        ↓
+  [앞다리    [뒷다리  [라이더
+   크랭크]    캠]     서보]
       └───────┴───────┘
               ↓
         말+라이더 프레임

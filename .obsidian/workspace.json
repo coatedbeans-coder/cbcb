@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyVault/00-Dashboard/일정.md",
+                "file": "StudyVault/00-Dashboard/MOC - 말을 탄 여인.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "일정"
+              "title": "MOC - 말을 탄 여인"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "6a60ead54cbef809",
   "lastOpenFiles": [
+    "StudyVault/00-Dashboard/일정.md",
     "StudyVault/00-Dashboard/설계 함정.md",
     "StudyVault/00-Dashboard/빠른 참조.md",
     "StudyVault/08-프로젝트-설계/제어 시퀀스 설계.md",
@@ -222,7 +223,6 @@
     "StudyVault/04-액추에이터-모터/14.DC 모터.md",
     "StudyVault/03-구조-재료/구조-재료 문제풀이.md",
     "StudyVault/03-구조-재료/13.프레임 설계.md",
-    "StudyVault/03-구조-재료/12.체결과 접합.md",
     "test.html",
     "StudyVault/무제 폴더",
     "05-Arduino-제어",
