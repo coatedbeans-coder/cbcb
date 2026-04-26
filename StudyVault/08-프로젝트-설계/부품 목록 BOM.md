@@ -8,9 +8,6 @@ keywords: BOM, bill of materials, parts list, components
 
 #project
 
-> [!tip] 이 BOM은 서보 방식 설계 기준입니다.
-> 캠샤프트 방식 선택 시 서보 4개 → 기어드 DC 모터 1개로 변경.
-
 ---
 
 ## 제어 전자 부품
@@ -19,7 +16,6 @@ keywords: BOM, bill of materials, parts list, components
 |------|------------|------|------|
 | 마이크로컨트롤러 | Arduino Uno R3 | 1 | 메인 제어 |
 | 서보 드라이버 | PCA9685 (I2C, 16채널) | 1 | 서보 6개 제어 |
-| 모터 드라이버 | L298N (2채널) | 1 | DC 모터 (캠샤프트용) |
 | 브레드보드 | 400핀 | 1 | 프로토타입 배선 |
 | 점프선 세트 | M-M, M-F, F-F | 1세트 | 배선 |
 
