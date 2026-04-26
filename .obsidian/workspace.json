@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyVault/08-프로젝트-설계/제어 시퀀스 설계.md",
+                "file": "StudyVault/00-Dashboard/일정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "제어 시퀀스 설계"
+              "title": "일정"
             }
           }
         ]
@@ -197,6 +197,9 @@
   },
   "active": "6a60ead54cbef809",
   "lastOpenFiles": [
+    "StudyVault/00-Dashboard/설계 함정.md",
+    "StudyVault/00-Dashboard/빠른 참조.md",
+    "StudyVault/08-프로젝트-설계/제어 시퀀스 설계.md",
     "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
     "StudyVault/08-프로젝트-설계/말을탄여인 프로젝트 개요.md",
     "StudyVault/08-프로젝트-설계/말 갤럽 메커니즘 설계.md",
@@ -220,9 +223,6 @@
     "StudyVault/03-구조-재료/구조-재료 문제풀이.md",
     "StudyVault/03-구조-재료/13.프레임 설계.md",
     "StudyVault/03-구조-재료/12.체결과 접합.md",
-    "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
-    "StudyVault/02-운동역학/운동역학 문제풀이.md",
-    "StudyVault/02-운동역학/10.무대기계 운동 원리.md",
     "test.html",
     "StudyVault/무제 폴더",
     "05-Arduino-제어",
