@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5eaff690e9c92c3d",
+        "id": "3a1b7f68b2107ae0",
         "type": "tabs",
         "children": [
           {
-            "id": "0f0cc970ea0f65cc",
+            "id": "78128d436e94c485",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
-                "bFile": "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
-                "aRef": ""
+                "file": "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 부품 목록 BOM  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "부품 목록 BOM"
             }
           }
         ]
@@ -206,23 +206,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0f0cc970ea0f65cc",
+  "active": "78128d436e94c485",
   "lastOpenFiles": [
+    "StudyVault/03-구조-재료/13.프레임 설계.md",
     "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
-    "Untitled Kanban.md",
     "StudyVault/08-프로젝트-설계/말을탄여인 프로젝트 개요.md",
+    "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
+    "StudyVault/05-Arduino-제어/19.서보 제어 프로그래밍.md",
+    "Untitled Kanban.md",
+    "StudyVault/01-기구학-메커니즘/1.기본 기계요소 6가지.md",
+    "StudyVault/00-Dashboard/일정.md",
+    "StudyVault/00-Dashboard/빠른 참조.md",
     "Untitled Kanban 1.md",
     "무제.base",
-    "StudyVault/00-Dashboard/일정.md",
     "StudyVault/00-Dashboard/설계 함정.md",
-    "StudyVault/03-구조-재료/13.프레임 설계.md",
     "StudyVault/04-액추에이터-모터/액추에이터 문제풀이.md",
     "StudyVault/04-액추에이터-모터/17.모터 선택 가이드.md",
     "StudyVault/04-액추에이터-모터/15.서보 모터.md",
     "StudyVault/08-프로젝트-설계/말 갤럽 메커니즘 설계.md",
-    "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
-    "StudyVault/01-기구학-메커니즘/1.기본 기계요소 6가지.md",
-    "StudyVault/00-Dashboard/빠른 참조.md",
     "StudyVault/08-프로젝트-설계/라이더 동작 설계.md",
     "StudyVault/00-Dashboard/MOC - 말을 탄 여인.md",
     "StudyVault/08-프로젝트-설계/제어 시퀀스 설계.md",
@@ -234,7 +235,6 @@
     "StudyVault/06-센서-신호처리/23.센서 종류와 선택.md",
     "StudyVault/05-Arduino-제어/Arduino 문제풀이.md",
     "StudyVault/05-Arduino-제어/22.I2C와 SPI 통신.md",
-    "StudyVault/05-Arduino-제어/21.타이머와 인터럽트.md",
     "test.html",
     "StudyVault/무제 폴더",
     "05-Arduino-제어",
