@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
+                "file": "StudyVault/08-프로젝트-설계/일정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "부품 목록 BOM"
+              "title": "일정"
             }
           }
         ]
@@ -206,16 +206,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "78128d436e94c485",
+  "active": "374718e900ba2b21",
   "lastOpenFiles": [
-    "StudyVault/03-구조-재료/13.프레임 설계.md",
-    "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
     "StudyVault/08-프로젝트-설계/말을탄여인 프로젝트 개요.md",
+    "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
+    "StudyVault/03-구조-재료/13.프레임 설계.md",
     "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
     "StudyVault/05-Arduino-제어/19.서보 제어 프로그래밍.md",
     "Untitled Kanban.md",
     "StudyVault/01-기구학-메커니즘/1.기본 기계요소 6가지.md",
-    "StudyVault/00-Dashboard/일정.md",
+    "StudyVault/08-프로젝트-설계/일정.md",
     "StudyVault/00-Dashboard/빠른 참조.md",
     "Untitled Kanban 1.md",
     "무제.base",
