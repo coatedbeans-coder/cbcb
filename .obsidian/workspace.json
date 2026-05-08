@@ -11,14 +11,14 @@
             "id": "78128d436e94c485",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-excalidraw-plugin/styles.css",
-                "bFile": ".obsidian/plugins/obsidian-excalidraw-plugin/styles.css",
-                "aRef": ""
+                "file": "StudyVault/08-프로젝트-설계/일정.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: styles.css  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "일정"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "75e8351d42a29793",
@@ -200,6 +201,7 @@
   "lastOpenFiles": [
     "StudyVault/사업/사업 일정 — 오르골 회전목마.md",
     "StudyVault/사업/사업 계획 — 오르골 회전목마.md",
+    "StudyVault/00-Dashboard/빠른 참조.md",
     "StudyVault/01-기구학-메커니즘/1.기본 기계요소 6가지.md",
     "StudyVault/사업/사업 부품 목록 BOM — 오르골 회전목마.md",
     "StudyVault/08-프로젝트-설계/일정.md",
@@ -210,7 +212,6 @@
     "StudyVault/03-구조-재료/11.재료 선택과 특성.md",
     "StudyVault/05-Arduino-제어/19.서보 제어 프로그래밍.md",
     "Untitled Kanban.md",
-    "StudyVault/00-Dashboard/빠른 참조.md",
     "Untitled Kanban 1.md",
     "무제.base",
     "StudyVault/00-Dashboard/설계 함정.md",
