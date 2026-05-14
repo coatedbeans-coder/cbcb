@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyVault/사업/사업 일정 — 오르골 회전목마.md",
+                "file": "StudyVault/사업/사업 계획 — 커스텀 오토마타.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "사업 일정 — 오르골 회전목마"
+              "title": "사업 계획 — 커스텀 오토마타"
             }
           }
         ]
@@ -196,23 +196,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "78128d436e94c485",
+  "active": "490e6c09d1b355ad",
   "lastOpenFiles": [
-    "StudyVault/사업/사업 부품 목록 BOM — 오르골 회전목마.md",
+    "StudyVault/사업/사업 일정 — 커스텀 오토마타.md",
+    "StudyVault/사업/사업 부품 목록 BOM — 커스텀 오토마타.md",
+    "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
+    "StudyVault/사업/사업 계획 — 커스텀 오토마타.md",
+    "StudyVault/08-프로젝트-설계/라이더 동작 설계.md",
     "StudyVault/사업/사업 계획 — 오르골 회전목마.md",
-    "StudyVault/08-프로젝트-설계/프로젝트 일정.md",
     "StudyVault/사업/사업 일정 — 오르골 회전목마.md",
+    "StudyVault/사업/사업 부품 목록 BOM — 오르골 회전목마.md",
+    "StudyVault/08-프로젝트-설계/프로젝트 일정.md",
     "StudyVault/08-프로젝트-설계/제어 시퀀스 설계.md",
     "StudyVault/08-프로젝트-설계/말을탄여인 프로젝트 개요.md",
     "StudyVault/05-Arduino-제어/19.서보 제어 프로그래밍.md",
     "StudyVault/04-액추에이터-모터/15.서보 모터.md",
-    "StudyVault/08-프로젝트-설계/부품 목록 BOM.md",
     "StudyVault/02-운동역학/7.힘과 토크.md",
     "StudyVault/01-기구학-메커니즘/2.크랭크와 왕복운동.md",
     "StudyVault/01-기구학-메커니즘/1.기본 기계요소 6가지.md",
     "StudyVault/00-Dashboard/MOC - 말을 탄 여인.md",
     "StudyVault/08-프로젝트-설계/말 갤럽 메커니즘 설계.md",
-    "StudyVault/08-프로젝트-설계/라이더 동작 설계.md",
     "StudyVault/01-기구학-메커니즘/3.캠과 팔로워.md",
     "StudyVault/00-Dashboard/설계 함정.md",
     "StudyVault/00-Dashboard/빠른 참조.md",
@@ -223,9 +226,6 @@
     "Untitled Kanban 1.md",
     "무제.base",
     "StudyVault/04-액추에이터-모터/액추에이터 문제풀이.md",
-    "StudyVault/04-액추에이터-모터/17.모터 선택 가이드.md",
-    "StudyVault/07-전원-전자회로/전원-전자 문제풀이.md",
-    "StudyVault/07-전원-전자회로/26.모터 드라이버와 H-Bridge.md",
     "test.html",
     "StudyVault/무제 폴더",
     "05-Arduino-제어",
